@@ -1,0 +1,6 @@
+body {
+  overflow: auto !important;
+}
+.register-main-container {
+  display: flex;
+}
